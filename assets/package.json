@@ -1,0 +1,16 @@
+{
+  "name": "react-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build src/admin.js",
+    "start": "wp-scripts start src/admin.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/scripts": "^24.5.0"
+  }
+}

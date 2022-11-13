@@ -1,0 +1,1 @@
+{"version":3,"file":"admin.css","mappings":";;;AAAA;EACI;AACJ,C","sources":["webpack://react-spa/./src/admin.scss"],"sourcesContent":["#rspa_container {\r\n    border: 1px solid red;\r\n}"],"names":[],"sourceRoot":""}
